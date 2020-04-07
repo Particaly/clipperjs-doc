@@ -23,3 +23,6 @@ ClipperLib.use_xyz = true;
 ClipperLib.use_lines = true;
 ClipperLib.use_deprecated = true;
 ```
+
+## 四舍五入
+通过为多边形坐标使用整数类型，Clipper库已经能够避免数字鲁棒性的问题，这些问题可能会给几何计算带来麻烦。[原始文档](http://www.angusj.com/delphi/clipper/documentation/Docs/Overview/Rounding.htm)中讨论了与整数舍入相关的问题及其可能的解决方案。

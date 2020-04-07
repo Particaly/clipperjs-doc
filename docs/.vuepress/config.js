@@ -20,12 +20,14 @@ module.exports = {
                 collapsable: false,
                 children: [
                     ['/Overview/', '总览'],
-                    ['/Preprocess/','预处理器定义'],
                     '/ClipperBase/',
                     '/Clipper/',
                     ['/Type/','Type'],
 	                '/PolyTree/',
-                    '/PolyNode/'
+                    '/PolyNode/',
+                    '/ClipperOffset/',
+                    '/JS/',
+                    ['/Preprocess/','杂项'],
                 ]
             },
         ]
