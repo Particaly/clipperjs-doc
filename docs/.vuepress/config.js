@@ -8,6 +8,7 @@ module.exports = {
         }]
     ],
     dest: './dist',
+    base: '/ClipperjsDoc/',
     ga: '',
     evergreen: true,
     themeConfig: {
