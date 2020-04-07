@@ -23,6 +23,7 @@ module.exports = {
                     ['/Preprocess/','预处理器定义'],
                     '/ClipperBase/',
                     '/Clipper/',
+                    ['/Type/','Type']
                 ]
             },
         ]
