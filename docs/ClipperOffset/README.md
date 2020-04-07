@@ -68,7 +68,7 @@ void Execute(PolyTree polytree, Number delta);
 
 可以多次调用此方法，将相同的路径偏移不同的量（即使用不同的增量）。
 
-::: warn 关于缩放的注意事项：
+::: warning 关于缩放的注意事项：
 
 因为ClipperOffset使用整数坐标，所以您必须缩放坐标以保持精度并使圆弧平滑-在整数输入的情况下也是如此。
 
