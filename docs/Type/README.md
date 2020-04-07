@@ -233,10 +233,10 @@ ClipperLib.PolyFillType = {pftEvenOdd: 0, pftNonZero: 1, pftPositive: 2, pftNega
 
 ![](https://sourceforge.net/p/jsclipper/wiki/_discuss/thread/f3a2fc70/6d6f/attachment/winding_number.png)
 
-偶数奇数Even-Odd（备用）：填充奇数编号的子区域，而不填充偶数编号的子区域。
-非零Non-Zero （缠绕）：填充所有非零子区域。
-正数Positive：绕组计数> 0的所有子区域均被填充。
-负数Negative：填充计数小于0的所有子区域。
+- 偶数奇数Even-Odd（备用）：填充奇数编号的子区域，而不填充偶数编号的子区域。
+- 非零Non-Zero （缠绕）：填充所有非零子区域。
+- 正数Positive：绕组计数> 0的所有子区域均被填充。
+- 负数Negative：填充计数小于0的所有子区域。
 
 ![](https://sourceforge.net/p/jsclipper/wiki/_discuss/thread/f3a2fc70/6d6f/attachment/evenodd.png)![](https://sourceforge.net/p/jsclipper/wiki/_discuss/thread/f3a2fc70/6d6f/attachment/nonzero.png)![](https://sourceforge.net/p/jsclipper/wiki/_discuss/thread/f3a2fc70/6d6f/attachment/positive.png)![](https://sourceforge.net/p/jsclipper/wiki/_discuss/thread/f3a2fc70/6d6f/attachment/negative.png)
 
